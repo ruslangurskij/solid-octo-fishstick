@@ -1,0 +1,17 @@
+
+           // .last(where: { $0 == 4 })
+           // .drop(while: { $0 < 5 })
+           // .prefix(5)
+           // .prefix(while: { $0 < 5 })
+//            .output(at: 5)
+//            .output(in: 3...6)
+//            .max(by: { int1, int2 in
+//                return int1 < int2
+//            })
+
+struct AnchorPreferenceUsage_Previews: PreviewProvider {
+    static var previews: some View {
+        AnchorPreferenceUsage()
+    }
+}
+
